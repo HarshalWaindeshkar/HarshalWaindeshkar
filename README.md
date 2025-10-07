@@ -19,5 +19,5 @@
 ### 🏅 LeetCode Progress  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/HarshalWaindeshkar?theme=dark&ext=heatmap&font=JetBrains%20Mono" />
+  <img src="https://leetcard.jacoblin.cool/Harshal_Waindeshkar?theme=dark&ext=heatmap&font=JetBrains%20Mono" />
 </p>
