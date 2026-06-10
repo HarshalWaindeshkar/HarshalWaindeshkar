@@ -16,8 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=HarshalWaindeshkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 🏅 LeetCode Progress  
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Harshal_Waindeshkar?theme=dark&ext=heatmap&font=JetBrains%20Mono" />
-</p>
